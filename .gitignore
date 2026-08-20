@@ -1,0 +1,21 @@
+# Go build output
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test and coverage output
+*.test
+*.out
+coverage.html
+
+# IDE settings
+.vscode/
+.idea/
+
+# Local environment files
+.env
+
+# Local Go build cache
+.gocache/
